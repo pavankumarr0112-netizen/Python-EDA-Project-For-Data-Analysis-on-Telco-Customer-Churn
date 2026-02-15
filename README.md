@@ -1,6 +1,6 @@
-# 📊 Customer Churn Analysis – Exploratory Data Analysis (EDA)
+# Customer Churn Analysis – Exploratory Data Analysis (EDA)
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on **Exploratory Data Analysis (EDA)** of a Customer Churn dataset. The main goal is to understand customer behavior and identify the key factors that influence whether a customer churns (leaves the service) or not.
 
@@ -8,7 +8,7 @@ The dataset contains **7043 rows and 21 columns**, including customer demographi
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 
 The dataset includes:
 
@@ -25,7 +25,7 @@ From the dataset summary shown in the project:
 
 ---
 
-## 🛠️ Tools & Libraries Used
+## Tools & Libraries Used
 
 * Python
 * Pandas
@@ -35,7 +35,7 @@ From the dataset summary shown in the project:
 
 ---
 
-## 🧹 Data Cleaning Steps
+## Data Cleaning Steps
 
 1. Loaded dataset using Pandas.
 2. Checked dataset shape and column details.
@@ -46,42 +46,42 @@ From the dataset summary shown in the project:
 
 ---
 
-## 📊 Key Analysis Performed
+## Key Analysis Performed
 
-### 1️⃣ Overall Churn Analysis
+### 1. Overall Churn Analysis
 
 * Around **26.54% of customers have churned**, while 73.46% stayed .
 * Visualized using count plots and pie charts.
 
 ---
 
-### 2️⃣ Churn by Gender
+### 2. Churn by Gender
 
 * Churn rate is almost similar between male and female customers .
 
 ---
 
-### 3️⃣ Churn by Senior Citizens
+### 3. Churn by Senior Citizens
 
 * A higher percentage of **Senior Citizens** have churned compared to non-senior customers .
 
 ---
 
-### 4️⃣ Churn by Tenure
+### 4. Churn by Tenure
 
 * Customers who stayed longer (higher tenure) are less likely to churn.
 * Customers with 1–2 months tenure have higher churn probability .
 
 ---
 
-### 5️⃣ Churn by Contract Type
+### 5. Churn by Contract Type
 
 * Customers with **Month-to-month contracts** are more likely to churn.
 * Customers with **One-year or Two-year contracts** are more stable .
 
 ---
 
-### 6️⃣ Churn by Services Used
+### 6. Churn by Services Used
 
 Customers who do not churn generally have:
 
@@ -97,13 +97,13 @@ Higher churn observed when:
 
 ---
 
-### 7️⃣ Churn by Payment Method
+### 7. Churn by Payment Method
 
 * Customers using **Electronic Check** are more likely to churn compared to other payment methods .
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 * Short tenure customers are high risk.
 * Month-to-month contracts increase churn probability.
@@ -113,7 +113,7 @@ Higher churn observed when:
 
 ---
 
-## 🎯 Conclusion
+## Conclusion
 
 This project helps identify the major factors contributing to customer churn. The insights gained from EDA can be used to:
 
@@ -125,13 +125,3 @@ This project helps identify the major factors contributing to customer churn. Th
 This analysis forms a strong foundation for building a **machine learning churn prediction model** in future work.
 
 ---
-
-## 🚀 Future Improvements
-
-* Perform feature engineering
-* Apply machine learning models
-* Build churn prediction dashboard
-* Deploy model for real-time prediction
-
----
-
