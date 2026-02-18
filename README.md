@@ -1,4 +1,4 @@
-# Customer Churn Analysis – Exploratory Data Analysis (EDA)
+# Telco Customer Churn Analysis – Exploratory Data Analysis (EDA)
 
 ## Project Overview
 
@@ -121,7 +121,3 @@ This project helps identify the major factors contributing to customer churn. Th
 * Offer better contract plans
 * Promote additional services
 * Target high-risk customers early
-
-This analysis forms a strong foundation for building a **machine learning churn prediction model** in future work.
-
----
