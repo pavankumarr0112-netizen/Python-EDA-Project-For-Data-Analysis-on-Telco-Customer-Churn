@@ -120,4 +120,4 @@ This project helps identify the major factors contributing to customer churn. Th
 * Improve customer retention strategies
 * Offer better contract plans
 * Promote additional services
-* Target high-risk customers early
+* Target high-risk customers early.
